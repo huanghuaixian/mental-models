@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [思维共振](README.md)
 
